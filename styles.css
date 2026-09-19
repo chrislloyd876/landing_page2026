@@ -113,3 +113,34 @@ button{
     margin-left: 400px;
     font-weight: bolder;
 }
+
+/*sign-up section*/
+.s-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.sign-up{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    border-radius: 12px;
+    background-color: #3882F6;
+    color:#f9faf8;
+    padding: 30px;
+}
+
+.sbold{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.s-text p{
+    margin: 0;
+}
+
+.sign-up button{
+    border: 1px solid #f9faf8;
+    padding: 0 25px;
+}
