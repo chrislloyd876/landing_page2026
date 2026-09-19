@@ -144,3 +144,10 @@ button{
     border: 1px solid #f9faf8;
     padding: 0 25px;
 }
+
+footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 40px;
+}
